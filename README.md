@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @medof1
-- 👀 I’m interested in python for image processing
-- 🌱 I’m currently learning python for macroing games
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me +6282128768153
+- 👀 I’m interested in python
+- 📫 How to reach me muhammadedof1@gmail.com
 
 <!---
 medof1/medof1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
